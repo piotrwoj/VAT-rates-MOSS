@@ -1,7 +1,7 @@
 { "last_updated": "2015-02-27",
   "author": "invocieOcean.com",  
   "source": "http://ec.europa.eu/taxation_customs/resources/documents/taxation/vat/how_vat_works/rates/vat_rates_en.pdf",
-  "comment": "firts is standard rate",
+  "comment": "first is standard rate",
   "vat_rates": 
 	{
 		"BE": [21, 6, 12],
@@ -9,7 +9,7 @@
 		"CZ": [21, 10, 15],
 		"DK": [25],
 		"DE": [19, 7],
-		"EE": [9, 20],
+		"EE": [20, 9],
 		"EL": [23, 6.5, 13],
 		"ES": [21, 4, 10],
 		"FR": [20, 2.1, 5.5, 10],
