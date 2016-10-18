@@ -1,6 +1,7 @@
 { "last_updated": "2015-02-27",
   "author": "invocieOcean.com",  
-  "source": "http://ec.europa.eu/taxation_customs/resources/documents/taxation/vat/how_vat_works/rates/vat_rates_en.pdf",
+  "source_old": "http://ec.europa.eu/taxation_customs/resources/documents/taxation/vat/how_vat_works/rates/vat_rates_en.pdf",
+  "source": "http://ec.europa.eu/taxation_customs/sites/taxation/files/docs/body/vat_rates_en.pdf",
   "comment": "first is standard rate",
   "vat_rates": 
 	{
